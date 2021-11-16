@@ -1,0 +1,25 @@
+[
+    {
+      "id" : 0,
+      "title" : "GTA5",
+      "content" : "GTA5",
+      "price" : 33000 ,
+      "imgurl" : "https://user-images.githubusercontent.com/59944176/141949241-be8d165e-279d-42b3-85a7-076f8f247478.jpg"
+    },
+  
+    {
+      "id" : 1,
+      "title" : "테라리아",
+      "content" : "테라리아",
+      "price" : 10500 ,
+      "imgurl" : "https://user-images.githubusercontent.com/59944176/141949248-42a29a1e-ec2e-439d-9482-26400d274bb7.jpg"
+    },
+  
+    {
+      "id" : 2,
+      "title" : "아크 : 서바이벌 이볼브",
+      "content" : "아크 : 서바이벌 이볼브",
+      "price" : 31000 ,
+      "imgurl" : "https://user-images.githubusercontent.com/59944176/141949250-4782a196-ef43-4dd8-bdf6-eef898472dc4.jpg"
+    }
+  ] 
