@@ -9,7 +9,7 @@
   
     {
       "id" : 4,
-      "title" : "테라리아",
+      "title" : "Terraria",
       "content" : "테라리아",
       "price" : 10500 ,
       "imgurl" : "https://user-images.githubusercontent.com/59944176/141953289-3ce729f9-e6d3-4eab-b97e-223d5c1c0496.jpg"
@@ -17,7 +17,7 @@
   
     {
       "id" : 5,
-      "title" : "아크 : 서바이벌 이볼브",
+      "title" : "Ark : Survival Evolved ",
       "content" : "아크 : 서바이벌 이볼브",
       "price" : 31000 ,
       "imgurl" : "https://user-images.githubusercontent.com/59944176/141953271-5f6b0f34-e4c2-4bd3-bb86-aca3705b3d90.jpg"
